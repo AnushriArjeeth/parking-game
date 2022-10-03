@@ -1,0 +1,23 @@
+body
+{
+    background-image:url("road.webp") ;
+    
+    background-size: cover;
+
+}
+
+#myCanvas 
+{
+    margin-top: 30px;
+    border-width: 20px;
+    background-color: white;
+    border-style: ridge;
+    
+
+}
+
+h1,h2
+{
+    color:white !important;
+
+}               
